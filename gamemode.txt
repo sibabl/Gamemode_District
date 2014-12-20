@@ -1,0 +1,86 @@
+ADDON Support_Player_Persistence
+ADDON Support_Doors
+
+ADDON Weapon_Sword
+ADDON Weapon_Spear
+ADDON Weapon_Rocket_Launcher
+ADDON Weapon_Push_Broom
+ADDON Weapon_Horse_Ray
+ADDON Weapon_Guns_Akimbo
+ADDON Weapon_Gun
+ADDON Weapon_Bow
+
+ADDON Brick_V15
+ADDON Brick_Treasure_Chest
+ADDON Brick_Poster_8x
+ADDON Brick_ModTer_BasicPack
+ADDON Brick_ModTer_InvertedPack
+ADDON Brick_Large_Cubes
+ADDON Brick_Halloween
+ADDON Brick_Doors
+ADDON Brick_Christmas_Tree
+ADDON Brick_Checkpoint
+ADDON Brick_Arch
+
+ADDON Bot_Zombie
+ADDON Bot_Shark
+ADDON Bot_Horse
+ADDON Bot_Blockhead
+ADDON Bot_Hole
+
+ADDON Sound_Synth4
+ADDON Sound_Phone
+ADDON Sound_Beeps
+
+ADDON Projectile_Radio_Wave
+ADDON Projectile_Pong
+ADDON Projectile_Pinball
+ADDON Projectile_GravityRocket
+
+ADDON Print_ModTer_Default
+ADDON Print_Letters_Default
+ADDON Print_2x2r_Monitor3
+ADDON Print_2x2r_Default
+ADDON Print_2x2f_Default
+ADDON Print_1x2f_Default
+ADDON Print_1x2f_BLPRemote
+
+ADDON Player_Quake
+ADDON Player_No_Jet
+ADDON Player_Leap_Jet
+ADDON Player_Jump_Jet
+
+ADDON Particle_Tools
+ADDON Particle_Player
+ADDON Particle_Grass
+ADDON Particle_FX_Cans
+ADDON Particle_Basic
+
+ADDON Light_Basic
+ADDON Light_Animated
+
+ADDON Item_Sports
+ADDON Item_Key
+ADDON Item_Skis
+
+ADDON Event_Camera_Control
+
+ADDON Emote_Hate
+ADDON Emote_Confusion
+ADDON Emote_Alarm
+
+ADDON Vehicle_Rowboat
+ADDON Vehicle_Pirate_Cannon
+ADDON Vehicle_Magic_Carpet
+ADDON Vehicle_Flying_Wheeled_Jeep
+ADDON Vehicle_Ball
+ADDON Vehicle_Horse
+ADDON Vehicle_Jeep
+ADDON Vehicle_Tank
+
+ADDON Gamemode_District
+
+$EnvGuiServer::SimpleMode 1
+$EnvGuiServer::SkyFile Add-Ons/Sky_Blue2/Blue2.dml
+$EnvGuiServer::WaterFile NONE
+$EnvGuiServer::GroundFile Add-Ons/Ground_Plate/plate.ground
